@@ -1,0 +1,2 @@
+cd /d "C:\Users\ckl\source\repos\MyDriver1" &msbuild "MyDriver1.vcxproj" /t:sdvViewer /p:configuration="Debug" /p:platform="x64" /p:SolutionDir="C:\Users\ckl\source\repos\MyDriver1" 
+exit %errorlevel% 

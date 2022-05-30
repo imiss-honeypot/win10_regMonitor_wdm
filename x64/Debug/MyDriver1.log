@@ -1,0 +1,25 @@
+﻿  Building 'MyDriver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  a.c
+C:\Users\ckl\source\repos\MyDriver1\a.c(32,32): warning C4100: “driver”: 未引用的形参
+C:\Users\ckl\source\repos\MyDriver1\a.c(81,18): warning C4996: 'ExAllocatePoolWithTag': ExAllocatePoolWithTag is deprecated, use ExAllocatePool2.
+C:\Users\ckl\source\repos\MyDriver1\a.c(99,20): warning C4996: 'ExAllocatePoolWithTag': ExAllocatePoolWithTag is deprecated, use ExAllocatePool2.
+C:\Users\ckl\source\repos\MyDriver1\a.c(155,72): warning C4996: 'ExAllocatePool': ExAllocatePool is deprecated, use ExAllocatePool2.
+C:\Users\ckl\source\repos\MyDriver1\a.c(179,24): warning C4996: 'ExAllocatePool': ExAllocatePool is deprecated, use ExAllocatePool2.
+C:\Users\ckl\source\repos\MyDriver1\a.c(283,3): warning C4267: “函数”: 从“size_t”转换到“ULONG”，可能丢失数据
+C:\Users\ckl\source\repos\MyDriver1\a.c(312,56): warning C4305: “类型强制转换”: 从“PVOID”到“REG_NOTIFY_CLASS”截断
+C:\Users\ckl\source\repos\MyDriver1\a.c(327,19): warning C4996: 'ExAllocatePoolWithTag': ExAllocatePoolWithTag is deprecated, use ExAllocatePool2.
+C:\Users\ckl\source\repos\MyDriver1\a.c(372,21): warning C4996: 'ExAllocatePool': ExAllocatePool is deprecated, use ExAllocatePool2.
+C:\Users\ckl\source\repos\MyDriver1\a.c(375,16): warning C4996: 'ExAllocatePool': ExAllocatePool is deprecated, use ExAllocatePool2.
+C:\Users\ckl\source\repos\MyDriver1\a.c(386,21): warning C4996: 'ExAllocatePool': ExAllocatePool is deprecated, use ExAllocatePool2.
+C:\Users\ckl\source\repos\MyDriver1\a.c(389,16): warning C4996: 'ExAllocatePool': ExAllocatePool is deprecated, use ExAllocatePool2.
+C:\Users\ckl\source\repos\MyDriver1\a.c(402,16): warning C4996: 'ExAllocatePool': ExAllocatePool is deprecated, use ExAllocatePool2.
+C:\Users\ckl\source\repos\MyDriver1\a.c(431,21): warning C4996: 'ExAllocatePool': ExAllocatePool is deprecated, use ExAllocatePool2.
+C:\Users\ckl\source\repos\MyDriver1\a.c(435,16): warning C4996: 'ExAllocatePool': ExAllocatePool is deprecated, use ExAllocatePool2.
+C:\Users\ckl\source\repos\MyDriver1\a.c(303,11): warning C4100: “CallbackContext”: 未引用的形参
+C:\Users\ckl\source\repos\MyDriver1\a.c(460,61): warning C4100: “RegPath”: 未引用的形参
+  MyDriver1.vcxproj -> C:\Users\ckl\source\repos\MyDriver1\x64\Debug\MyDriver1.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\ckl\source\repos\MyDriver1\x64\Debug\MyDriver1.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
